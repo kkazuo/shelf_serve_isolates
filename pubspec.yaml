@@ -1,14 +1,14 @@
 name: shelf_serve_isolates
 description: Shelf server with multi-isolates.
-version: 1.0.0
+version: 1.1.0
 homepage: https://github.com/kkazuo/shelf_serve_isolates
 
 environment:
-  sdk: ">=2.18.6 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   shelf: ^1.4.0
   shelf_docker_shutdown: ^1.0.0
 
 dev_dependencies:
-  very_good_analysis: ^3.1.0
+  very_good_analysis: ^4.0.0+1
